@@ -1,7 +1,7 @@
 <img align ="right" height ="590cm"
 src="https://raw.githubusercontent.com/gist/TCW001/04a1bfb5ed8ca7ab2698edc4a5a4f8e9/raw/878c1e5fbf2776e3592ed11d2af05f6d492a7c7b/githubcard.svg"/>
 
-<h1 align = "left"> Hello curious <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Nelson Abreu
+<h1 align = "left"> Hello curious <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Nelson Abreu</h1>
 
 - 🔥 Apprentice Game Developer
 
@@ -25,12 +25,12 @@ src="https://raw.githubusercontent.com/gist/TCW001/04a1bfb5ed8ca7ab2698edc4a5a4f
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/tcw0001" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-TCW-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<!--<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<!--<a href="https://linkedin.com/in/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Nelson%20Abreu-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>!-->
-<!--<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+<!--<a href="https://instagram.com/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Nelson%20Abreu-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>!-->
 </p>
