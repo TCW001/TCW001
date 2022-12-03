@@ -1,11 +1,11 @@
-<img align ="right" height ="590cm"
-src="https://raw.githubusercontent.com/gist/TCW001/04a1bfb5ed8ca7ab2698edc4a5a4f8e9/raw/878c1e5fbf2776e3592ed11d2af05f6d492a7c7b/githubcard.svg"/>
+<img align ="center" height ="590cm"
+src="https://raw.githubusercontent.com/gist/TCW001/fd4a2710d194a4b5bbbf458c150481b2/raw/5e080b891f14ccf1864e06fce6814b458b84cb1b/githubcard.svg"/>
 
 <h1 align = "left"> Hello curious <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Nelson Abreu</h1>
 
 - 🔥 Apprentice Game Developer
 
-- 💬 Pergunte-me sobre **C#, Unity Editor**
+- 💬 Ask me about **C#, Unity Editor**
 
 <!--- 👨‍💻 Mais em [url.name](url)!-->
 
