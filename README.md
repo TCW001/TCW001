@@ -1,4 +1,4 @@
-<img align ="center" height ="590cm"
+<img align ="center" height ="250cm" width ="1000cm"
 src="https://raw.githubusercontent.com/gist/TCW001/fd4a2710d194a4b5bbbf458c150481b2/raw/5e080b891f14ccf1864e06fce6814b458b84cb1b/githubcard.svg"/>
 
 <h1 align = "left"> Hello curious <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Nelson Abreu</h1>
@@ -23,7 +23,6 @@ src="https://raw.githubusercontent.com/gist/TCW001/fd4a2710d194a4b5bbbf458c15048
 
 ## Contact
 
-<p align="left" style="background:yellow">
 <a href="https://twitter.com/tcw0001" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-TCW-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
